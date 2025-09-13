@@ -59,8 +59,3 @@ Tenho paixão por **arquitetura limpa**, **microsserviços escaláveis** e **fro
 
 ---
 
-<div align="center">
-  
-✨ *“A arquitetura de software existe para tornar as mudanças inevitáveis fáceis, não impossíveis.”*  
-
-</div>
