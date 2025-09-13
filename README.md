@@ -64,5 +64,3 @@ Tenho paixão por **arquitetura limpa**, **microsserviços escaláveis** e **fro
 ✨ *“A arquitetura de software existe para tornar as mudanças inevitáveis fáceis, não impossíveis.”*  
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
